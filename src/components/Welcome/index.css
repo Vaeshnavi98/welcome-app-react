@@ -1,0 +1,20 @@
+.main-div {
+  text-align: center;
+  background-color: #1e293b;
+  height: 100vh;
+  padding: 20px;
+}
+h1 {
+  color: #f0bb03;
+  font-family: Roboto;
+  font-size: 40px;
+}
+p {
+  color: #ffffff;
+}
+.button-deco {
+  background-color: white;
+  border-radius: 7px;
+  color: #1e293b;
+  padding: 10px;
+}
